@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "pid": "p1",
+      "title": "Lakeridge Health",
+      "img": "lakebg.png",
+      "desc": "A fact vs fiction trivia style application designed to demystify common misconceptions about clinical trials and those who are involved in them.",
+      "tech": ["vuejs", "javascript", "sass", "html", "nodejs"]},
+    {"pid": "p2", "title": "Project 2", "desc": "about project 2", "tech": ["React", "JS", "SASS"]},
+    {"pid": "p3", "title": "Project 3", "desc": "about project 3", "tech": ["React", "JS", "SASS"]}
+  ]
+}

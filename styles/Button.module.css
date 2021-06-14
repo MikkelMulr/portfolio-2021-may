@@ -1,0 +1,8 @@
+.Button {
+}
+
+.Button a {
+	text-decoration: none;
+	color: #e4d5b7;
+	transition: all 0.3s ease-in 0.25s;
+}
